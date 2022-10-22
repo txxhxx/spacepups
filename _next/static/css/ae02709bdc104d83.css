@@ -1,0 +1,1 @@
+body{background-color:red!important}.container{display:flex;flex-direction:column;align-items:center}.container h3{font-size:32px}.grid-gallery{width:100%;max-width:960px;display:grid;grid-template-rows:1fr 1fr 1fr;grid-template-columns:1fr 1fr 1fr;grid-gap:10px;gap:10px}.grid-gallery img{width:100%}
